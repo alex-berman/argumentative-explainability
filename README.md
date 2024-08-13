@@ -6,4 +6,3 @@ This repo supplements the following papers:
 - Berman, A. (forthcoming). [Argumentative Dialogue As Basis For Human-AI Collaboration](papers/CHAI2024_Berman.pdf). In _Proceedings of the Communication in Human-AI Interaction Workshop (CHAI-2024)_.
 
 Live demo: https://dev.clasp.gu.se/mindtone (note: not mobile-friendly)
-
